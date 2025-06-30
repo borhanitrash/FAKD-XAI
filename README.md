@@ -1,6 +1,4 @@
 # FAKD-XAI
-FAKD-XAI: Feature-Aligned Knowledge Distillation with Explainable AI for Efficient Brain Tumor Classification
-
 Dataset: [Brain Tumor MRI Dataset from Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
 
